@@ -11,11 +11,10 @@
    **FLTK** (Fast Light Toolkit) — это кроссплатформенная библиотека для создания графических интерфейсов. В этом руководстве мы создадим простой текстовый редактор с базовыми функциями: открытие, сохранение и редактирование файлов.
 
    В FLTK существует несколько классов:
-   
-        * Fl_Text_Editor — виджет для редактирования текста
-        * Fl_Text_Buffer — буфер для хранения текста
-        * Fl_Menu_Bar — создание меню
-        * Вспомогательные функции для работы с файлами
+   * Fl_Text_Editor — виджет для редактирования текста
+   * Fl_Text_Buffer — буфер для хранения текста
+   * Fl_Menu_Bar — создание меню
+   * Вспомогательные функции для работы с файлами
 
 ## Техническое руководство
 ### Шаг 1: Настройка среды разработки
@@ -40,3 +39,23 @@
 Windows |	MinGW (GCC) |	MSVC (Visual Studio) |
 Linux	| GCC (g++)	| Clang |
 macOS	| Clang (Xcode)	| GCC (через Homebrew) |
+
+
+### Как подключить FLTK к компилятору?
+
+**1. Windows (MinGW/MSVC)**
+  1.1. MinGW
+    Установите FLTK через MSYS2 или вручную с помощью терминала: 
+    *pacman -S mingw-w64-x86_64-fltk*
+    *g++ main.cpp -o app -I/path/to/fltk/include -L/path/to/fltk/lib -lfltk -lfltk_images -lfltk_gl -lfltk_forms -mwindows*
+
+  1.2. Visual Studio
+    * Скачайте FLTK с официального сайта.
+    * Настройте пути в Properties → C/C++ → Additional Include Directories.
+    * Добавьте .lib-файлы в Linker → Input → Additional Dependencies.
+
+
+  **2. Linux (GCC/Clang)**
+  Установите FLTK через пакетный менеджер в терминале:
+  *sudo apt install fltk1.3-dev  # Ubuntu/Debian
+  sudo dnf install fltk-devel    # Fedora*
