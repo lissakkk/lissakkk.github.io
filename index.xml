@@ -1,118 +1,178 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Главное on Проект "Ментор МГПУ"</title><link>https://lissakkk.github.io/</link><description>Recent content in Главное on Проект "Ментор МГПУ"</description><generator>Hugo -- 0.147.3</generator><language>ru</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lissakkk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2-я промежуточная аттестация</title><link>https://lissakkk.github.io/journal/post1/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/journal/post1/</guid><description>&lt;p>Успешно пройдена 2-я промежуточная аттестация. За работу над проектом команда получила 10 баллов из 10 возможных.🎉&lt;/p></description></item><item><title>Разработка проекта</title><link>https://lissakkk.github.io/journal/post3/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/journal/post3/</guid><description>&lt;p>Команда начала разработку цифрового наставника с помошью системы RAG.
-&lt;img alt="Скриншот" loading="lazy" src="https://lissakkk.github.io/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA7.png">&lt;/p></description></item><item><title>1-я промежуточная аттестация</title><link>https://lissakkk.github.io/journal/post2/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/journal/post2/</guid><description>&lt;p>Успешно пройдена 1-я промежуточная аттестация. За работу над проектом команда получила 9 баллов из 10 возможных.🎉&lt;/p></description></item><item><title>Главное</title><link>https://lissakkk.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/about/</guid><description>&lt;h3 id="о-проекте">О проекте&lt;/h3>
-&lt;p>&lt;strong>Ментор МГПУ&lt;/strong> - &lt;em>это проект по созданию цифрового наставника на основе искусственного интеллекта и веб-приложения для молодых преподавателей, предоставляющего легкий доступ к консультациям и индивидуальной поддержке.&lt;/em>&lt;/p>
-&lt;h3 id="о-продукте">О продукте&lt;/h3>
-&lt;p>&lt;img alt="Скриншот" loading="lazy" src="https://lissakkk.github.io/images/pic2.png">&lt;/p>
-&lt;p>&lt;img alt="Скриншот" loading="lazy" src="https://lissakkk.github.io/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA4.png">&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>Формат реализации&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Веб-сайт с возможностью преобразования в PWA (Progressive Web Application).&lt;/li>
-&lt;li>Кросс-платформенная совместимость (работает на любых устройствах).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Технологический стек&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Frontend: Веб-интерфейс чата (аналог ChatGPT/Deepseek, но с упрощённым дизайном).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Backend:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Главное on Проект &#34;Ментор МГПУ&#34;</title>
+    <link>https://lissakkk.github.io/</link>
+    <description>Recent content in Главное on Проект &#34;Ментор МГПУ&#34;</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lissakkk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2-я промежуточная аттестация</title>
+      <link>https://lissakkk.github.io/journal/post1/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/journal/post1/</guid>
+      <description>&lt;p&gt;Успешно пройдена 2-я промежуточная аттестация. За работу над проектом команда получила 10 баллов из 10 возможных.🎉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Разработка проекта</title>
+      <link>https://lissakkk.github.io/journal/post3/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/journal/post3/</guid>
+      <description>&lt;p&gt;Команда начала разработку цифрового наставника с помошью системы RAG.
+&lt;img alt=&#34;Скриншот&#34; loading=&#34;lazy&#34; src=&#34;https://lissakkk.github.io/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA7.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1-я промежуточная аттестация</title>
+      <link>https://lissakkk.github.io/journal/post2/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/journal/post2/</guid>
+      <description>&lt;p&gt;Успешно пройдена 1-я промежуточная аттестация. За работу над проектом команда получила 9 баллов из 10 возможных.🎉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Главное</title>
+      <link>https://lissakkk.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/about/</guid>
+      <description>&lt;h3 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ментор МГПУ&lt;/strong&gt; - &lt;em&gt;это проект по созданию цифрового наставника на основе искусственного интеллекта и веб-приложения для молодых преподавателей, предоставляющего легкий доступ к консультациям и индивидуальной поддержке.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;о-продукте&#34;&gt;О продукте&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Скриншот&#34; loading=&#34;lazy&#34; src=&#34;https://lissakkk.github.io/images/pic2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Скриншот&#34; loading=&#34;lazy&#34; src=&#34;https://lissakkk.github.io/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA4.png&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Формат реализации&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Веб-сайт с возможностью преобразования в PWA (Progressive Web Application).&lt;/li&gt;
+&lt;li&gt;Кросс-платформенная совместимость (работает на любых устройствах).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Технологический стек&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Frontend: Веб-интерфейс чата (аналог ChatGPT/Deepseek, но с упрощённым дизайном).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backend:
 Python + LangChain (работа с LLM и RAG).
 ChromaDB (векторное хранилище для семантического поиска).
-SQLite (хранение пользовательских данных: аутентификация, история чатов).&lt;/p></description></item><item><title>Индивидуальное вариативное задание</title><link>https://lissakkk.github.io/individual/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/individual/</guid><description/></item><item><title>Ресурсы</title><link>https://lissakkk.github.io/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/resources/</guid><description>&lt;h3 id="полезные-материалы">Полезные материалы&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://mentor.mgpu.ru/">Сайт партнера&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://habr.com/ru/articles/779526/">Что такое RAG (Retrieval Augmented Generation)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://habr.com/ru/companies/productstar/articles/508892/">Что такое Minimal Viable Product (минимально жизнеспособный продукт)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/1VHXyUXsf6vWo0vWk_FkcK5SkAvZkgQ1K/edit?gid=570818004#gid=570818004">Проектная документация&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Участники</title><link>https://lissakkk.github.io/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/team/</guid><description>&lt;p>&lt;img alt="Скриншот" loading="lazy" src="https://lissakkk.github.io/images/team.jpg">&lt;/p>
-&lt;h2 id="вклад-участников">Вклад участников&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>ФИО&lt;/th>
-&lt;th>Роль&lt;/th>
-&lt;th>Вклад&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Анохин Дмитрий Сергеевич&lt;/td>
-&lt;td>&lt;strong>Разработчик чат-бота (бэк)&lt;/strong>&lt;/td>
-&lt;td>Работа с ИИ&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Винокуров Максим Александрович&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>Исследование актуальности и проблематики&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Гросс Ричард Артурович&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>Исследование актуальности и проблематики&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Исаев Артем Денисович&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>Исследование целевой аудитрии&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Киселев Никита Сергеевич&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>Наполнение фотобанка ЦПД, монтаж отчетного видео-ролика&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Комиссаров Егор Денисович&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Кононова Елизавета Андреевна&lt;/td>
-&lt;td>&lt;strong>UX/UI-дизайнер&lt;/strong>&lt;/td>
-&lt;td>Исследование целевой аудитрии, заполнение Паспорта проекта&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Миржалилов Жавохир Улугбек угли&lt;/td>
-&lt;td>&lt;strong>Разработчик чат-бота (бэк), UX/UI-дизайнер&lt;/strong>&lt;/td>
-&lt;td>Разработка интерфейса, визуальной части приложения&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Плетнев Егор Дмитриевич&lt;/td>
-&lt;td>&lt;strong>Разработчик чат-бота (бэк)&lt;/strong>&lt;/td>
-&lt;td>Работа с ИИ&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Приходько Арина Сергеевна&lt;/td>
-&lt;td>&lt;strong>Тимлид, UX/UI-дизайнер&lt;/strong>&lt;/td>
-&lt;td>Координация работы команды, разработка интерфейса, визуальной части приложения&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Соловьев Иван Андреевич&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Тараканников Даниил Алексеевич&lt;/td>
-&lt;td>&lt;strong>Разработчик баз данных&lt;/strong>&lt;/td>
-&lt;td>Наполнение фотобанка ЦПД, монтаж отчетного видео-ролика&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Хужоков Аскер Жамболатович&lt;/td>
-&lt;td>&lt;strong>Разработчик чат-бота (бэк)&lt;/strong>&lt;/td>
-&lt;td>Работа с ИИ, разработка системы RAG&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Цыцора Анастасия Дмитриевна&lt;/td>
-&lt;td>&lt;strong>UX/UI-дизайнер&lt;/strong>&lt;/td>
-&lt;td>Разработка интерфейса, визуальной части приложения&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Чистяков Владимир Витальевич&lt;/td>
-&lt;td>&lt;strong>Разработчик чат-бота (бэк)&lt;/strong>&lt;/td>
-&lt;td>Заполнение Паспорта проекта&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item></channel></rss>
+SQLite (хранение пользовательских данных: аутентификация, история чатов).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Индивидуальное вариативное задание</title>
+      <link>https://lissakkk.github.io/individual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/individual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>https://lissakkk.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/resources/</guid>
+      <description>&lt;h3 id=&#34;полезные-материалы&#34;&gt;Полезные материалы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mentor.mgpu.ru/&#34;&gt;Сайт партнера&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://habr.com/ru/articles/779526/&#34;&gt;Что такое RAG (Retrieval Augmented Generation)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://habr.com/ru/companies/productstar/articles/508892/&#34;&gt;Что такое Minimal Viable Product (минимально жизнеспособный продукт)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1VHXyUXsf6vWo0vWk_FkcK5SkAvZkgQ1K/edit?gid=570818004#gid=570818004&#34;&gt;Проектная документация&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>https://lissakkk.github.io/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lissakkk.github.io/team/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Скриншот&#34; loading=&#34;lazy&#34; src=&#34;https://lissakkk.github.io/images/team.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;вклад-участников&#34;&gt;Вклад участников&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;ФИО&lt;/th&gt;
+          &lt;th&gt;Роль&lt;/th&gt;
+          &lt;th&gt;Вклад&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Анохин Дмитрий Сергеевич&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик чат-бота (бэк)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с ИИ&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Винокуров Максим Александрович&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Исследование актуальности и проблематики&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Гросс Ричард Артурович&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Исследование актуальности и проблематики&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Исаев Артем Денисович&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Исследование целевой аудитрии&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Киселев Никита Сергеевич&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Наполнение фотобанка ЦПД, монтаж отчетного видео-ролика&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Комиссаров Егор Денисович&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Кононова Елизавета Андреевна&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;UX/UI-дизайнер&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Исследование целевой аудитрии, заполнение Паспорта проекта&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Миржалилов Жавохир Улугбек угли&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик чат-бота (бэк), UX/UI-дизайнер&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Разработка интерфейса, визуальной части приложения&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Плетнев Егор Дмитриевич&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик чат-бота (бэк)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с ИИ&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Приходько Арина Сергеевна&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Тимлид, UX/UI-дизайнер&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Координация работы команды, разработка интерфейса, визуальной части приложения&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Соловьев Иван Андреевич&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Тараканников Даниил Алексеевич&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик баз данных&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Наполнение фотобанка ЦПД, монтаж отчетного видео-ролика&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Хужоков Аскер Жамболатович&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик чат-бота (бэк)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с ИИ, разработка системы RAG&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Цыцора Анастасия Дмитриевна&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;UX/UI-дизайнер&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Разработка интерфейса, визуальной части приложения&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Чистяков Владимир Витальевич&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Разработчик чат-бота (бэк)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Заполнение Паспорта проекта&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
