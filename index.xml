@@ -22,7 +22,7 @@
 &lt;p>Backend:
 Python + LangChain (работа с LLM и RAG).
 ChromaDB (векторное хранилище для семантического поиска).
-SQLite (хранение пользовательских данных: аутентификация, история чатов).&lt;/p></description></item><item><title>Индивидуальное вариативное задание</title><link>https://lissakkk.github.io/individual/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/individual/</guid><description/></item><item><title>Ресурсы</title><link>https://lissakkk.github.io/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/resources/</guid><description>&lt;h3 id="полезные-материалы">Полезные материалы&lt;/h3>
+SQLite (хранение пользовательских данных: аутентификация, история чатов).&lt;/p></description></item><item><title>Ресурсы</title><link>https://lissakkk.github.io/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lissakkk.github.io/resources/</guid><description>&lt;h3 id="полезные-материалы">Полезные материалы&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://mentor.mgpu.ru/">Сайт партнера&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://habr.com/ru/articles/779526/">Что такое RAG (Retrieval Augmented Generation)&lt;/a>&lt;/li>
