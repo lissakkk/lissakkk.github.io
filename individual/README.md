@@ -46,7 +46,9 @@ macOS	| Clang (Xcode)	| GCC (через Homebrew) |
 **1. Windows (MinGW/MSVC)**
   1.1. MinGW
     Установите FLTK через MSYS2 или вручную с помощью терминала: 
+    
     *pacman -S mingw-w64-x86_64-fltk*
+    
     *g++ main.cpp -o app -I/path/to/fltk/include -L/path/to/fltk/lib -lfltk -lfltk_images -lfltk_gl -lfltk_forms -mwindows*
 
   1.2. Visual Studio
@@ -57,5 +59,15 @@ macOS	| Clang (Xcode)	| GCC (через Homebrew) |
 
   **2. Linux (GCC/Clang)**
   Установите FLTK через пакетный менеджер в терминале:
+  
   *sudo apt install fltk1.3-dev  # Ubuntu/Debian
-  sudo dnf install fltk-devel    # Fedora*
+  
+  sudo dnf install fltk-devel    # Fedora
+  
+  g++ main.cpp -o app `fltk-config --cxxflags --ldflags`*
+
+
+**3. macOS (Clang/Xcode)**
+Установите FLTK через Homebrew в терминале:
+
+*clang++ main.cpp -o app -I/opt/homebrew/include -L/opt/homebrew/lib -lfltk -lfltk_images*
