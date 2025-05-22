@@ -315,7 +315,7 @@ classDiagram
     Fl_Window "1" *-- "1" Fl_Text_Editor : содержит
     Fl_Text_Editor "1" o-- "1" Fl_Text_Buffer : использует
 ```
-![Описание](/images/Диаграмма классов текстового редактора.png)
+![Описание](https://github.com/lissakkk/lissakkk.github.io/blob/main/individual/images/Диаграмма%20классов%20текстового%20редактора.png)
 
 
 
