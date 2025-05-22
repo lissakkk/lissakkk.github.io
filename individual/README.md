@@ -124,6 +124,7 @@ void exit_cb(Fl_Widget*, void*);   //выход из программы
 Функция *main()* — обязательный элемент любого кода на c++:
 
 int main(int argc, char **argv) {
+
     window = new Fl_Window(800, 600, "Текстовый редактор"); //создание окна 800x600 с заголовком
 
     //создадим меню:
@@ -155,8 +156,11 @@ int main(int argc, char **argv) {
     
     return Fl::run(); //запуск главного цикла обработки событий
 }
-    
-//теперь создадим все необходимые функции:
+
+
+## Шаг 4: реализация главных функций
+
+Теперь создадим все необходимые функции:
 
 void modify_cb(int, int, int, int, const char*, void*) { //callback-функция, вызываемая при изменении текста
 
@@ -264,11 +268,31 @@ void exit_cb(Fl_Widget*, void*) {
 }
 
 
+## Шаг 5: как запускать и компилировать
+
+Linux/macOS:
+
+  *g++ text_editor.cpp -o editor -lfltk*
+
+  *./editor*
 
 
+Windows (MinGW):
+
+  *g++ text_editor.cpp -o editor.exe -lfltk -mwindows*
+  
+  *start editor.exe*
 
 
-
+classDiagram
+    class Fl_Window
+    class Fl_Text_Editor
+    class Fl_Text_Buffer
+    class Fl_Menu_Bar
+    
+    Fl_Window --> Fl_Menu_Bar
+    Fl_Window --> Fl_Text_Editor
+    Fl_Text_Editor --> Fl_Text_Buffer
 
 
 
