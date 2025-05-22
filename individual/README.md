@@ -285,7 +285,27 @@ Windows (MinGW):
 
 
 
-
+```mermaid
+classDiagram
+    class Fl_Window {
+        +show()
+        +hide()
+    }
+    
+    class Fl_Text_Editor {
+        +buffer()
+        +insert()
+        +cut()
+    }
+    
+    class Fl_Text_Buffer {
+        +text()
+        +loadfile()
+        +savefile()
+    }
+    
+    Fl_Window "1" *-- "1" Fl_Text_Editor : содержит
+    Fl_Text_Editor "1" o-- "1" Fl_Text_Buffer : использует
 
 
 
