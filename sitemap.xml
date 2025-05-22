@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://lissakkk.github.io/posts/</loc><lastmod>2025-05-20T09:05:53+03:00</lastmod></url><url><loc>https://lissakkk.github.io/</loc><lastmod>2025-05-20T09:05:53+03:00</lastmod></url><url><loc>https://lissakkk.github.io/journal/post1/</loc><lastmod>2025-05-16T00:00:00+00:00</lastmod></url><url><loc>https://lissakkk.github.io/journal/</loc><lastmod>2025-05-16T00:00:00+00:00</lastmod></url><url><loc>https://lissakkk.github.io/journal/post3/</loc><lastmod>2025-04-14T00:00:00+00:00</lastmod></url><url><loc>https://lissakkk.github.io/journal/post2/</loc><lastmod>2025-03-21T00:00:00+00:00</lastmod></url><url><loc>https://lissakkk.github.io/categories/</loc></url><url><loc>https://lissakkk.github.io/tags/</loc></url><url><loc>https://lissakkk.github.io/about/</loc></url><url><loc>https://lissakkk.github.io/resources/</loc></url><url><loc>https://lissakkk.github.io/team/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lissakkk.github.io/posts/</loc>
+    <lastmod>2025-05-20T09:05:53+03:00</lastmod>
+  </url><url>
+    <loc>https://lissakkk.github.io/</loc>
+    <lastmod>2025-05-20T09:05:53+03:00</lastmod>
+  </url><url>
+    <loc>https://lissakkk.github.io/journal/post1/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lissakkk.github.io/journal/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lissakkk.github.io/journal/post3/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lissakkk.github.io/journal/post2/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lissakkk.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lissakkk.github.io/tags/</loc>
+  </url><url>
+    <loc>https://lissakkk.github.io/about/</loc>
+  </url><url>
+    <loc>https://lissakkk.github.io/indiv/</loc>
+  </url><url>
+    <loc>https://lissakkk.github.io/resources/</loc>
+  </url><url>
+    <loc>https://lissakkk.github.io/team/</loc>
+  </url>
+</urlset>
