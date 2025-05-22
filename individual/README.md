@@ -283,39 +283,16 @@ Windows (MinGW):
   
   *start editor.exe*
 
+## Иллюстрации и диаграммы
 
-```mermaid
-classDiagram
-    class Fl_Window {
-        +int w, h
-        +label(title)
-        +show()
-        +hide()
-    }
-    
-    class Fl_Menu_Bar {
-        +add(item, shortcut, callback)
-    }
-    
-    class Fl_Text_Editor {
-        +buffer()
-        +insert(text)
-        +cut()
-        +copy()
-    }
-    
-    class Fl_Text_Buffer {
-        +text()
-        +loadfile(filename)
-        +savefile(filename)
-        +add_modify_callback()
-    }
-    
-    Fl_Window "1" *-- "1" Fl_Menu_Bar : содержит
-    Fl_Window "1" *-- "1" Fl_Text_Editor : содержит
-    Fl_Text_Editor "1" o-- "1" Fl_Text_Buffer : использует
-```
+### Структура проекта
+        text_editor/
+        └── text_editor.cpp
+
+### Диаграмма классов
 ![Описание](https://github.com/lissakkk/lissakkk.github.io/blob/main/individual/images/Диаграмма%20классов%20текстового%20редактора.png)
+
+
 
 
 
