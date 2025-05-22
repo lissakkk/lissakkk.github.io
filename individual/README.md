@@ -284,15 +284,7 @@ Windows (MinGW):
   *start editor.exe*
 
 
-classDiagram
-    class Fl_Window
-    class Fl_Text_Editor
-    class Fl_Text_Buffer
-    class Fl_Menu_Bar
-    
-    Fl_Window --> Fl_Menu_Bar
-    Fl_Window --> Fl_Text_Editor
-    Fl_Text_Editor --> Fl_Text_Buffer
+
 
 
 
