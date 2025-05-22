@@ -109,9 +109,13 @@ bool is_modified = false;      //флаг изменения документа
 Определим несколько важных функций для работы с документами, дадим им подходящие названия:
 
 void modify_cb(int, int, int, int, const char*, void*);  //вызывается при изменении текста
+
 void new_cb(Fl_Widget*, void*);    //создание нового документа
+
 void open_cb(Fl_Widget*, void*);   //открытие файла
+
 void save_cb(Fl_Widget*, void*);   //сохранение файла
+
 void exit_cb(Fl_Widget*, void*);   //выход из программы
 
 
@@ -120,7 +124,6 @@ void exit_cb(Fl_Widget*, void*);   //выход из программы
 Функция *main()* — обязательный элемент любого кода на c++:
 
 int main(int argc, char **argv) {
-    
     window = new Fl_Window(800, 600, "Текстовый редактор"); //создание окна 800x600 с заголовком
 
     //создадим меню:
